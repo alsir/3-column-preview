@@ -73,7 +73,7 @@ body{
  	color: hsl(179, 100%, 13%);
 
  }
- @media (min-width: 400px){
+ @media (min-width: 600px){
 
  	.mainclass{
  		margin: 5%;
